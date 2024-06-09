@@ -98,7 +98,6 @@ class Preprocessor:
         #Generate new subdirectory for saving preprocessed text 
 
         for filename in os.listdir(raw_directory_path):
-            print(filename)
             filepath = os.path.join(raw_directory_path, filename)
             sentences = self.preprocess_chapter(filepath)
             self.save_chapter(sentences, filename)
