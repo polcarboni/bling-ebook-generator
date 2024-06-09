@@ -1,0 +1,14 @@
+{
+    "sites": {
+        "projekt-gutenberg": {
+            "starting_string": "in unserem Shop +++",
+            "ending_string": "<hr size=\"1\" color=\"#808080\">",
+            "strategy": "projekt-gutenberg"
+        },
+        "another-site": {
+            "starting_string": "<div class=\"chapter\">",
+            "ending_string": "</div>",
+            "strategy": "another-site"
+        }
+    }
+}

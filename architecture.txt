@@ -1,0 +1,38 @@
+bilingual_ebook_generator/
+│
+├── README.md
+├── requirements.txt
+├── setup.py
+│
+├── data/
+│   ├── raw/                 # Raw text files downloaded by the scraper
+│   ├── preprocessed/        # Preprocessed text files
+│   └── translated/          # Translated text files
+│
+├── src/
+│   ├── __init__.py
+│   ├── scraper/
+│   │   ├── __init__.py
+│   │   ├── base_scraper.py
+│   │   ├── site1_scraper.py
+│   │   ├── site2_scraper.py
+│   │   └── scraper_factory.py # Factory to select scraper based on domain
+│   │
+│   ├── preprocessor/
+│   │   ├── __init__.py
+│   │   └── text_preprocessor.py
+│   │
+│   ├── translator/
+│   │   ├── __init__.py
+│   │   └── api_translator.py
+│   │
+│   ├── ebook_builder/
+│   │   ├── __init__.py
+│   │   └── epub_builder.py
+│   │
+│   └── utils/
+│       ├── __init__.py
+│       └── helpers.py
+│
+└── scripts/
+    └── generate_ebook.py    # Script to run the entire pipeline

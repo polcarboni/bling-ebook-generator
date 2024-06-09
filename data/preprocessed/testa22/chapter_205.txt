@@ -1,0 +1,67 @@
+LIC "-//W3C//DTD HTML 4.01 Transitional//EN" "hmpro6.
+dtd"
+Cabanis.
+Teil I
+var _paq = window.
+_paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.
+push(['trackPageView']);
+_paq.
+push(['enableLinkTracking']);
+(function() {
+var u="//www.
+projekt-gutenberg.
+org/matomo/";
+_paq.
+push(['setTrackerUrl', u+'matomo.
+php']);
+_paq.
+push(['setSiteId', '1']);
+var d=document, g=d.
+createElement('script'), s=d.
+getElementsByTagName('script')[0];
+g.
+type='text/javascript';
+g.
+async=true;
+g.
+defer=true;
+g.
+src=u+'matomo.
+js';
+s.
+parentNode.
+insertBefore(g,s);
+})();
+&#160;
+Autoren
+&#8734;
+Werke
+&#8734;
+Neu
+&#8734;
+Information
+&#8734;
+Shop
+&#8734;
+Lesetips
+&#8734;
+Textquelle
+&#8734;
+&#160;
+&#160;
+&#160;
+&#160;
+&#160;
+Das gesuchte Buch fehlt?
+Bitte schicken Sie eine Email an:
+fehlerteufel@abc.
+de
+&#160;
+&#160;
+&#160;
+Impressum
+&#8734;
+Nach oben
+&#8734;

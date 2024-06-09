@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e891c56-d988-4085-a629-dc73f4cad94d</dc:identifier>
+        <dc:title>(Straordinariamente) Andreia Torres, Rossella Creti</dc:title>
+        <dc:creator opf:file-as="e, Instant portoghese. Il corso che rende facile imparare la lingua... com um pouco de alegria. Girls4teaching. Con Contenuto digitale per download" opf:role="aut">Instant portoghese. Il corso che rende facile imparare la lingua... com um pouco de alegria. Girls4teaching. Con Contenuto digitale per download e</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-31T19:40:12.462758+00:00"/>
+        <meta name="calibre:title_sort" content="(Straordinariamente) Andreia Torres, Rossella Creti"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
